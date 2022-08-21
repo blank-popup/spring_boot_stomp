@@ -1,0 +1,8 @@
+com/example/restservice/WSConfig.java
+ com.example.restservice.WSConfig
+com/example/restservice/WSController.java
+ com.example.restservice.WSController
+com/example/restservice/WSMessage.java
+ com.example.restservice.WSMessage
+com/example/restservice/Application.java
+ com.example.restservice.Application
